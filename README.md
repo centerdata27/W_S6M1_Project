@@ -19,7 +19,7 @@ This project includes a `frontend/components` folder containing several React co
 ### Task 1: Project Set Up
 
 - [ ] Clone the repository to your machine using your terminal.
-- [ ] CD into the project base directory.
+- [ ] CD into the project base directory. ok
 - [ ] Download project dependencies by running `npm install`.
 - [ ] Start up the app using `npm run dev`.
 - [ ] Push commits: `git push origin main`.
