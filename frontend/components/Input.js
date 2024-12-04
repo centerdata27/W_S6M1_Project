@@ -33,7 +33,7 @@ STEP 6:
   We need to add an extra prop to the <input /> element like so: value={inputValue}
 */
 
-import React from 'react'; /* STEP 0 */
+import React,{useState} from 'react'; /* STEP 0 */
 
 export default function Input() {
   /* STEP 1 */
